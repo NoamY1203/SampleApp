@@ -30,16 +30,16 @@ JournalMe is an app that allows individuals to make a daily routine to journal a
 **Required Must-have Stories**
 
 - [x] User can create text entries (with or without prompts)
-- [ ] User is provided AI generated prompts
-- [ ] User can see their previous entries
-- [ ] All entries must be saved on a database API (ie Firebase)
+- [x] User is provided AI generated prompts
+- [x] User can see their previous entries
+- [x] All entries must be saved on a database API (ie Firebase)
 
 **Optional Nice-to-have Stories**
 
+- [x] User can click on the entry in the main screen to view the whole entry
 - [ ] User can choose to lock their entries for personal privacy
 - [ ] User can attatch various forms of media when journaling
 - [ ] A search bar for a user to search up specific details from entries
-- [ ] User can click on the entry in the main screen to view the whole entry
 
 ### 2. Screen Archetypes
 
@@ -80,5 +80,13 @@ JournalMe is an app that allows individuals to make a daily routine to journal a
 <div>
     <a>
       <img style="max-width:300px;" src="Sprint1.gif">
+    </a>
+  </div>
+
+  ### Units 9 & 10 (Sprints 2 & 3)
+
+<div>
+    <a>
+      <img style="max-width:300px;" src="Sprint2-3.gif">
     </a>
   </div>
